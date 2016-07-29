@@ -1,0 +1,11 @@
+# comment
+this one is new.txt
+.ds_store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assests/photoshop
+assests/videos/
+!assests/videos/tour_*.mp4
+# question: would log/archive/access.log be ignored? no.
